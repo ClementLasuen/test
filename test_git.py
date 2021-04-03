@@ -16,4 +16,5 @@ x = np.zeros(n)
 x = f(x)
 print(x)
 
-print('modif sur github')
+print('modif sur ordi')
+
